@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://velog.io/@richard"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+[![hyukzz GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyukzz&hide_border=trueshow_icons=true&theme=tokyonight&hide=stars)](https://github.com/hyukzz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyukzz&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/hyukzz)
