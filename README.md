@@ -3,7 +3,7 @@
 ## My space 👻
 E-mail: `google`<hyuk2richard@gmail.com> `naver`<ri_chard@naver.com>
 
-<!-- Blog: <a href="https://velog.io/@richard"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<!-- Blog: <a href=""><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
  -->
 <!--
 **hyukzz/hyukzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
