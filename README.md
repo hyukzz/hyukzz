@@ -3,8 +3,8 @@
 ## My space 👻
 E-mail: `google`<hyuk2richard@gmail.com> `naver`<ri_chard@naver.com>
 
-Blog: <a href="https://velog.io/@richard"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
+<!-- Blog: <a href="https://velog.io/@richard"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+ -->
 <!--
 **hyukzz/hyukzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![hyukzz GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyukzz&hide_border=trueshow_icons=true&theme=tokyonight&hide=stars)](https://github.com/hyukzz) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyukzz&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/hyukzz)
+<!-- [![hyukzz GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyukzz&hide_border=trueshow_icons=true&theme=tokyonight&hide=stars)](https://github.com/hyukzz) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyukzz&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/hyukzz) -->
 ---
 꾸준한 나는 다르다 🔥
