@@ -1,30 +1,22 @@
-### 언제나 처음처럼 🌱
----
-## My space 👻
-E-mail: `google`<hyuk2richard@gmail.com> `naver`<ri_chard@naver.com>
+<!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 
-<!-- Blog: <a href=""><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
- -->
-<!--
-**hyukzz/hyukzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyukzz&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### 🔥 richard 🔥
+ 
+ 💌 hyuk2richard@gmail.com
+  
+  ---
+ 
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyukzz&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=black)
 
-Here are some ideas to get you started:
+  <a href="https://velog.io/@richard"><img src="https://img.shields.io/badge/richard.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- [![hyukzz GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyukzz&hide_border=trueshow_icons=true&theme=tokyonight&hide=stars)](https://github.com/hyukzz) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyukzz&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/hyukzz) -->
----
-꾸준한 나는 다르다 🔥
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyukzz&count_bg=%2300DDED&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <br>
+ 
+</div>
                     
