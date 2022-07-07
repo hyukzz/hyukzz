@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyukzz&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/hyukzz) -->
 ---
 꾸준한 나는 다르다 🔥
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
