@@ -1,11 +1,11 @@
 <div align="center">
   
-  <div align="center" style="text-align:center">
+<!--   <div align="center" style="text-align:center">
     
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2)
     
 </div>
-
+ -->
  
 <div align="center" style="text-align:center">
   
