@@ -1,7 +1,7 @@
 <div align="center">
-  
-## hyukzz's Github
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=“hyukzz's+Github+Profile”;“Hiyo”;)](https://git.io/typing-svg) 
+
 <div>
   <a href="mailto:hyuk2richard@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/hyuk2richard@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
